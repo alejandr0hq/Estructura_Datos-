@@ -1,0 +1,32 @@
+# Compiled classes
+*.class
+*.jar
+out/
+build/
+bin/
+target/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+tmp/
+*.tmp
+
+# AIRCTRL GUI: configuracion local (puede incluir contrasena) y driver descargado
+config/
+lib/
+sources.txt
